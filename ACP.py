@@ -497,7 +497,7 @@ else:
 plt.tight_layout()
 # Sauvegarde de la figure au lieu de l'afficher
 fig1.savefig('figure1_vue_ensemble_acp.png', dpi=300, bbox_inches='tight')
-print("\n✅ Figure 1 sauvegardée : figure1_vue_ensemble_acp.png")
+print("\n Figure 1 sauvegardée : figure1_vue_ensemble_acp.png")
 plt.close(fig1)
 
 # ============================================================================
@@ -578,7 +578,7 @@ ax.legend(loc='upper right', fontsize=7)
 plt.tight_layout()
 # Sauvegarde de la figure
 fig2.savefig('figure2_evolutions_temporelles.png', dpi=300, bbox_inches='tight')
-print("✅ Figure 2 sauvegardée : figure2_evolutions_temporelles.png")
+print(" Figure 2 sauvegardée : figure2_evolutions_temporelles.png")
 plt.close(fig2)
 
 # ============================================================================
@@ -849,7 +849,7 @@ ax.grid(True, alpha=0.3, linestyle=':')
 
 plt.tight_layout()
 fig.savefig('figure4_regression_pib_securite.png', dpi=300, bbox_inches='tight')
-print("\n✅ Figure 4 sauvegardée : figure4_regression_pib_securite.png")
+print("\n Figure 4 sauvegardée : figure4_regression_pib_securite.png")
 plt.close(fig)
 
 # ============================================================================
@@ -915,10 +915,10 @@ print("="*80)
 
 # Sauvegarde du dataframe avec PIB
 df_regression.to_csv('donnees_regression_securite_pib.csv', index=False)
-print("\n✅ Données sauvegardées : donnees_regression_securite_pib.csv")
+print("\n Données sauvegardées : donnees_regression_securite_pib.csv")
 
 print("\n" + "="*80)
-print("📊 ANALYSE DE RÉGRESSION TERMINÉE !")
+print("ANALYSE DE RÉGRESSION TERMINÉE")
 print("="*80)
 print("Fichiers créés :")
 print("  1. figure4_regression_pib_securite.png")
