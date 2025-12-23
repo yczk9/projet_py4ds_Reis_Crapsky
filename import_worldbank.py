@@ -9,7 +9,7 @@ def parse_worldbank_pib(data_json):
         liste_simplifiee.append({
             'Pays': item['country']['value'],
             'Année': int(item['date']),
-            'PIB_par_habitant': item['value']
+            'Valeur': item['value']
         })
     return pd.DataFrame(liste_simplifiee)
 
