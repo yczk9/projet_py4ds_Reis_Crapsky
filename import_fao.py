@@ -47,10 +47,10 @@ def translate_indicators(df):
     df['Indicateur'] = df['Indicateur'].replace(translate_map)
     return df
 
-def simplify_fao_years(df):
+def convert_fao_years(df):
     """
-    Convertit les périodes '2018-2020' en année de début (integer) '2018'.
+    Convertit les périodes '2018-2020' en année de début '2018'.
     """
-    # Utilisation de .str[:4] pour une opération vectorisée plus rapide que la boucle for
+    # Utilisation de .str[:4] pour ne garder que la première année
     df['Année'] = df['Année'].astype(str).str[:4].astype(int)
     return df
