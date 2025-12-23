@@ -41,489 +41,465 @@
 39,Brazil,disponibilité alimentaire par habitant,2018,kcal/cap/d,3338.0
 40,Brazil,disponibilité alimentaire par habitant,2019,kcal/cap/d,3349.0
 41,Brazil,disponibilité alimentaire par habitant,2020,kcal/cap/d,3373.0
-42,Brazil,disponibilité alimentaire par habitant,2021,kcal/cap/d,3406.0
-43,Brazil,disponibilité alimentaire par habitant,2022,kcal/cap/d,3433.0
-44,Brazil,disponibilité protéiques moyenne,2000,g/cap/d,80.2
-45,Brazil,disponibilité protéiques moyenne,2001,g/cap/d,81.8
-46,Brazil,disponibilité protéiques moyenne,2002,g/cap/d,83.2
-47,Brazil,disponibilité protéiques moyenne,2003,g/cap/d,83.8
-48,Brazil,disponibilité protéiques moyenne,2004,g/cap/d,83.7
-49,Brazil,disponibilité protéiques moyenne,2005,g/cap/d,84.2
-50,Brazil,disponibilité protéiques moyenne,2006,g/cap/d,86.1
-51,Brazil,disponibilité protéiques moyenne,2007,g/cap/d,87.5
-52,Brazil,disponibilité protéiques moyenne,2008,g/cap/d,92.5
-53,Brazil,disponibilité protéiques moyenne,2009,g/cap/d,97.0
-54,Brazil,disponibilité protéiques moyenne,2010,g/cap/d,101.0
-55,Brazil,disponibilité protéiques moyenne,2011,g/cap/d,101.6
-56,Brazil,disponibilité protéiques moyenne,2012,g/cap/d,102.0
-57,Brazil,disponibilité protéiques moyenne,2013,g/cap/d,102.3
-58,Brazil,disponibilité protéiques moyenne,2014,g/cap/d,102.1
-59,Brazil,disponibilité protéiques moyenne,2015,g/cap/d,101.9
-60,Brazil,disponibilité protéiques moyenne,2016,g/cap/d,103.0
-61,Brazil,disponibilité protéiques moyenne,2017,g/cap/d,103.0
-62,Brazil,disponibilité protéiques moyenne,2018,g/cap/d,102.6
-63,Brazil,disponibilité protéiques moyenne,2019,g/cap/d,101.2
-64,Brazil,disponibilité protéiques moyenne,2020,g/cap/d,101.1
-65,Brazil,suffisance des apports énergétiques alimentaires moyens,2000,%,122.0
-66,Brazil,suffisance des apports énergétiques alimentaires moyens,2001,%,124.0
-67,Brazil,suffisance des apports énergétiques alimentaires moyens,2002,%,127.0
-68,Brazil,suffisance des apports énergétiques alimentaires moyens,2003,%,129.0
-69,Brazil,suffisance des apports énergétiques alimentaires moyens,2004,%,130.0
-70,Brazil,suffisance des apports énergétiques alimentaires moyens,2005,%,131.0
-71,Brazil,suffisance des apports énergétiques alimentaires moyens,2006,%,132.0
-72,Brazil,suffisance des apports énergétiques alimentaires moyens,2007,%,133.0
-73,Brazil,suffisance des apports énergétiques alimentaires moyens,2008,%,134.0
-74,Brazil,suffisance des apports énergétiques alimentaires moyens,2009,%,136.0
-75,Brazil,suffisance des apports énergétiques alimentaires moyens,2010,%,136.0
-76,Brazil,suffisance des apports énergétiques alimentaires moyens,2011,%,136.0
-77,Brazil,suffisance des apports énergétiques alimentaires moyens,2012,%,136.0
-78,Brazil,suffisance des apports énergétiques alimentaires moyens,2013,%,136.0
-79,Brazil,suffisance des apports énergétiques alimentaires moyens,2014,%,135.0
-80,Brazil,suffisance des apports énergétiques alimentaires moyens,2015,%,135.0
-81,Brazil,suffisance des apports énergétiques alimentaires moyens,2016,%,135.0
-82,Brazil,suffisance des apports énergétiques alimentaires moyens,2017,%,136.0
-83,Brazil,suffisance des apports énergétiques alimentaires moyens,2018,%,136.0
-84,Brazil,suffisance des apports énergétiques alimentaires moyens,2019,%,137.0
-85,Brazil,suffisance des apports énergétiques alimentaires moyens,2020,%,138.0
-86,Brazil,suffisance des apports énergétiques alimentaires moyens,2021,%,139.0
-87,Brazil,suffisance des apports énergétiques alimentaires moyens,2022,%,140.0
-88,China,PIB par habitant,2000,$,2237.44298500334
-89,China,PIB par habitant,2001,$,2405.89396743215
-90,China,PIB par habitant,2002,$,2610.72960252379
-91,China,PIB par habitant,2003,$,2857.0373538115
-92,China,PIB par habitant,2004,$,3127.86276523632
-93,China,PIB par habitant,2005,$,3465.81734409951
-94,China,PIB par habitant,2006,$,3883.35412942474
-95,China,PIB par habitant,2007,$,4409.75700836878
-96,China,PIB par habitant,2008,$,4811.47471804961
-97,China,PIB par habitant,2009,$,5237.76666540352
-98,China,PIB par habitant,2010,$,5764.86534987407
-99,China,PIB par habitant,2011,$,6275.90956436258
-100,China,PIB par habitant,2012,$,6723.19443752823
-101,China,PIB par habitant,2013,$,7198.06876478162
-102,China,PIB par habitant,2014,$,7686.57792954381
-103,China,PIB par habitant,2015,$,8175.33285077393
-104,China,PIB par habitant,2016,$,8679.37704460133
-105,China,PIB par habitant,2017,$,9221.51403820573
-106,China,PIB par habitant,2018,$,9798.6528523316
-107,China,PIB par habitant,2019,$,10356.4804194995
-108,China,PIB par habitant,2020,$,10573.6420059282
-109,China,disponibilité alimentaire par habitant,2000,kcal/cap/d,2813.0
-110,China,disponibilité alimentaire par habitant,2001,kcal/cap/d,2819.0
-111,China,disponibilité alimentaire par habitant,2002,kcal/cap/d,2831.0
-112,China,disponibilité alimentaire par habitant,2003,kcal/cap/d,2845.0
-113,China,disponibilité alimentaire par habitant,2004,kcal/cap/d,2860.0
-114,China,disponibilité alimentaire par habitant,2005,kcal/cap/d,2880.0
-115,China,disponibilité alimentaire par habitant,2006,kcal/cap/d,2912.0
-116,China,disponibilité alimentaire par habitant,2007,kcal/cap/d,2948.0
-117,China,disponibilité alimentaire par habitant,2008,kcal/cap/d,2995.0
-118,China,disponibilité alimentaire par habitant,2009,kcal/cap/d,3039.0
-119,China,disponibilité alimentaire par habitant,2010,kcal/cap/d,3080.0
-120,China,disponibilité alimentaire par habitant,2011,kcal/cap/d,3099.0
-121,China,disponibilité alimentaire par habitant,2012,kcal/cap/d,3136.0
-122,China,disponibilité alimentaire par habitant,2013,kcal/cap/d,3179.0
-123,China,disponibilité alimentaire par habitant,2014,kcal/cap/d,3217.0
-124,China,disponibilité alimentaire par habitant,2015,kcal/cap/d,3235.0
-125,China,disponibilité alimentaire par habitant,2016,kcal/cap/d,3248.0
-126,China,disponibilité alimentaire par habitant,2017,kcal/cap/d,3274.0
-127,China,disponibilité alimentaire par habitant,2018,kcal/cap/d,3295.0
-128,China,disponibilité alimentaire par habitant,2019,kcal/cap/d,3336.0
-129,China,disponibilité alimentaire par habitant,2020,kcal/cap/d,3383.0
-130,China,disponibilité alimentaire par habitant,2021,kcal/cap/d,3427.0
-131,China,disponibilité alimentaire par habitant,2022,kcal/cap/d,3435.0
-132,China,disponibilité protéiques moyenne,2000,g/cap/d,84.0
-133,China,disponibilité protéiques moyenne,2001,g/cap/d,84.3
-134,China,disponibilité protéiques moyenne,2002,g/cap/d,85.2
-135,China,disponibilité protéiques moyenne,2003,g/cap/d,86.0
-136,China,disponibilité protéiques moyenne,2004,g/cap/d,86.8
-137,China,disponibilité protéiques moyenne,2005,g/cap/d,87.8
-138,China,disponibilité protéiques moyenne,2006,g/cap/d,89.5
-139,China,disponibilité protéiques moyenne,2007,g/cap/d,91.3
-140,China,disponibilité protéiques moyenne,2008,g/cap/d,97.9
-141,China,disponibilité protéiques moyenne,2009,g/cap/d,104.0
-142,China,disponibilité protéiques moyenne,2010,g/cap/d,110.0
-143,China,disponibilité protéiques moyenne,2011,g/cap/d,110.7
-144,China,disponibilité protéiques moyenne,2012,g/cap/d,111.7
-145,China,disponibilité protéiques moyenne,2013,g/cap/d,113.4
-146,China,disponibilité protéiques moyenne,2014,g/cap/d,115.6
-147,China,disponibilité protéiques moyenne,2015,g/cap/d,117.2
-148,China,disponibilité protéiques moyenne,2016,g/cap/d,118.6
-149,China,disponibilité protéiques moyenne,2017,g/cap/d,119.7
-150,China,disponibilité protéiques moyenne,2018,g/cap/d,120.9
-151,China,disponibilité protéiques moyenne,2019,g/cap/d,122.9
-152,China,disponibilité protéiques moyenne,2020,g/cap/d,125.2
-153,China,suffisance des apports énergétiques alimentaires moyens,2000,%,116.0
-154,China,suffisance des apports énergétiques alimentaires moyens,2001,%,116.0
-155,China,suffisance des apports énergétiques alimentaires moyens,2002,%,116.0
-156,China,suffisance des apports énergétiques alimentaires moyens,2003,%,116.0
-157,China,suffisance des apports énergétiques alimentaires moyens,2004,%,117.0
-158,China,suffisance des apports énergétiques alimentaires moyens,2005,%,117.0
-159,China,suffisance des apports énergétiques alimentaires moyens,2006,%,119.0
-160,China,suffisance des apports énergétiques alimentaires moyens,2007,%,120.0
-161,China,suffisance des apports énergétiques alimentaires moyens,2008,%,122.0
-162,China,suffisance des apports énergétiques alimentaires moyens,2009,%,124.0
-163,China,suffisance des apports énergétiques alimentaires moyens,2010,%,126.0
-164,China,suffisance des apports énergétiques alimentaires moyens,2011,%,127.0
-165,China,suffisance des apports énergétiques alimentaires moyens,2012,%,128.0
-166,China,suffisance des apports énergétiques alimentaires moyens,2013,%,130.0
-167,China,suffisance des apports énergétiques alimentaires moyens,2014,%,132.0
-168,China,suffisance des apports énergétiques alimentaires moyens,2015,%,133.0
-169,China,suffisance des apports énergétiques alimentaires moyens,2016,%,134.0
-170,China,suffisance des apports énergétiques alimentaires moyens,2017,%,135.0
-171,China,suffisance des apports énergétiques alimentaires moyens,2018,%,136.0
-172,China,suffisance des apports énergétiques alimentaires moyens,2019,%,137.0
-173,China,suffisance des apports énergétiques alimentaires moyens,2020,%,139.0
-174,China,suffisance des apports énergétiques alimentaires moyens,2021,%,140.0
-175,China,suffisance des apports énergétiques alimentaires moyens,2022,%,140.0
-176,India,PIB par habitant,2000,$,756.704109527449
-177,India,PIB par habitant,2001,$,778.507377528365
-178,India,PIB par habitant,2002,$,793.615912906381
-179,India,PIB par habitant,2003,$,841.278894571674
-180,India,PIB par habitant,2004,$,892.596614581612
-181,India,PIB par habitant,2005,$,947.732565646672
-182,India,PIB par habitant,2006,$,1008.23275343783
-183,India,PIB par habitant,2007,$,1069.24696813025
-184,India,PIB par habitant,2008,$,1086.50605251513
-185,India,PIB par habitant,2009,$,1155.10163274172
-186,India,PIB par habitant,2010,$,1235.15939133951
-187,India,PIB par habitant,2011,$,1281.61054354933
-188,India,PIB par habitant,2012,$,1333.09626557668
-189,India,PIB par habitant,2013,$,1399.4537980287
-190,India,PIB par habitant,2014,$,1484.31640682913
-191,India,PIB par habitant,2015,$,1583.99815907985
-192,India,PIB par habitant,2016,$,1694.46534973825
-193,India,PIB par habitant,2017,$,1788.69770318446
-194,India,PIB par habitant,2018,$,1883.35772705062
-195,India,PIB par habitant,2019,$,1936.03067741067
-196,India,PIB par habitant,2020,$,1806.50110583878
-197,India,disponibilité alimentaire par habitant,2000,kcal/cap/d,2298.0
-198,India,disponibilité alimentaire par habitant,2001,kcal/cap/d,2265.0
-199,India,disponibilité alimentaire par habitant,2002,kcal/cap/d,2238.0
-200,India,disponibilité alimentaire par habitant,2003,kcal/cap/d,2231.0
-201,India,disponibilité alimentaire par habitant,2004,kcal/cap/d,2246.0
-202,India,disponibilité alimentaire par habitant,2005,kcal/cap/d,2291.0
-203,India,disponibilité alimentaire par habitant,2006,kcal/cap/d,2339.0
-204,India,disponibilité alimentaire par habitant,2007,kcal/cap/d,2362.0
-205,India,disponibilité alimentaire par habitant,2008,kcal/cap/d,2364.0
-206,India,disponibilité alimentaire par habitant,2009,kcal/cap/d,2370.0
-207,India,disponibilité alimentaire par habitant,2010,kcal/cap/d,2378.0
-208,India,disponibilité alimentaire par habitant,2011,kcal/cap/d,2399.0
-209,India,disponibilité alimentaire par habitant,2012,kcal/cap/d,2418.0
-210,India,disponibilité alimentaire par habitant,2013,kcal/cap/d,2431.0
-211,India,disponibilité alimentaire par habitant,2014,kcal/cap/d,2448.0
-212,India,disponibilité alimentaire par habitant,2015,kcal/cap/d,2470.0
-213,India,disponibilité alimentaire par habitant,2016,kcal/cap/d,2505.0
-214,India,disponibilité alimentaire par habitant,2017,kcal/cap/d,2523.0
-215,India,disponibilité alimentaire par habitant,2018,kcal/cap/d,2532.0
-216,India,disponibilité alimentaire par habitant,2019,kcal/cap/d,2540.0
-217,India,disponibilité alimentaire par habitant,2020,kcal/cap/d,2562.0
-218,India,disponibilité alimentaire par habitant,2021,kcal/cap/d,2605.0
-219,India,disponibilité alimentaire par habitant,2022,kcal/cap/d,2645.0
-220,India,disponibilité protéiques moyenne,2000,g/cap/d,55.7
-221,India,disponibilité protéiques moyenne,2001,g/cap/d,54.9
-222,India,disponibilité protéiques moyenne,2002,g/cap/d,54.2
-223,India,disponibilité protéiques moyenne,2003,g/cap/d,54.0
-224,India,disponibilité protéiques moyenne,2004,g/cap/d,54.5
-225,India,disponibilité protéiques moyenne,2005,g/cap/d,55.9
-226,India,disponibilité protéiques moyenne,2006,g/cap/d,57.4
-227,India,disponibilité protéiques moyenne,2007,g/cap/d,58.0
-228,India,disponibilité protéiques moyenne,2008,g/cap/d,58.9
-229,India,disponibilité protéiques moyenne,2009,g/cap/d,59.7
-230,India,disponibilité protéiques moyenne,2010,g/cap/d,60.8
-231,India,disponibilité protéiques moyenne,2011,g/cap/d,61.5
-232,India,disponibilité protéiques moyenne,2012,g/cap/d,62.5
-233,India,disponibilité protéiques moyenne,2013,g/cap/d,63.3
-234,India,disponibilité protéiques moyenne,2014,g/cap/d,64.2
-235,India,disponibilité protéiques moyenne,2015,g/cap/d,65.2
-236,India,disponibilité protéiques moyenne,2016,g/cap/d,66.3
-237,India,disponibilité protéiques moyenne,2017,g/cap/d,67.2
-238,India,disponibilité protéiques moyenne,2018,g/cap/d,68.2
-239,India,disponibilité protéiques moyenne,2019,g/cap/d,69.8
-240,India,disponibilité protéiques moyenne,2020,g/cap/d,71.3
-241,India,suffisance des apports énergétiques alimentaires moyens,2000,%,104.0
-242,India,suffisance des apports énergétiques alimentaires moyens,2001,%,102.0
-243,India,suffisance des apports énergétiques alimentaires moyens,2002,%,100.0
-244,India,suffisance des apports énergétiques alimentaires moyens,2003,%,100.0
-245,India,suffisance des apports énergétiques alimentaires moyens,2004,%,100.0
-246,India,suffisance des apports énergétiques alimentaires moyens,2005,%,102.0
-247,India,suffisance des apports énergétiques alimentaires moyens,2006,%,104.0
-248,India,suffisance des apports énergétiques alimentaires moyens,2007,%,104.0
-249,India,suffisance des apports énergétiques alimentaires moyens,2008,%,104.0
-250,India,suffisance des apports énergétiques alimentaires moyens,2009,%,104.0
-251,India,suffisance des apports énergétiques alimentaires moyens,2010,%,104.0
-252,India,suffisance des apports énergétiques alimentaires moyens,2011,%,105.0
-253,India,suffisance des apports énergétiques alimentaires moyens,2012,%,106.0
-254,India,suffisance des apports énergétiques alimentaires moyens,2013,%,106.0
-255,India,suffisance des apports énergétiques alimentaires moyens,2014,%,106.0
-256,India,suffisance des apports énergétiques alimentaires moyens,2015,%,107.0
-257,India,suffisance des apports énergétiques alimentaires moyens,2016,%,108.0
-258,India,suffisance des apports énergétiques alimentaires moyens,2017,%,109.0
-259,India,suffisance des apports énergétiques alimentaires moyens,2018,%,109.0
-260,India,suffisance des apports énergétiques alimentaires moyens,2019,%,109.0
-261,India,suffisance des apports énergétiques alimentaires moyens,2020,%,110.0
-262,India,suffisance des apports énergétiques alimentaires moyens,2021,%,112.0
-263,India,suffisance des apports énergétiques alimentaires moyens,2022,%,113.0
-264,Mexico,PIB par habitant,2000,$,9581.96970210753
-265,Mexico,PIB par habitant,2001,$,9398.35074355724
-266,Mexico,PIB par habitant,2002,$,9242.27886130016
-267,Mexico,PIB par habitant,2003,$,9221.99666693097
-268,Mexico,PIB par habitant,2004,$,9421.28975988024
-269,Mexico,PIB par habitant,2005,$,9491.51730225718
-270,Mexico,PIB par habitant,2006,$,9813.8280424425
-271,Mexico,PIB par habitant,2007,$,9877.69532644737
-272,Mexico,PIB par habitant,2008,$,9826.3421836048
-273,Mexico,PIB par habitant,2009,$,9074.1188145564
-274,Mexico,PIB par habitant,2010,$,9389.06722084275
-275,Mexico,PIB par habitant,2011,$,9575.93437788582
-276,Mexico,PIB par habitant,2012,$,9782.51776305354
-277,Mexico,PIB par habitant,2013,$,9738.71059803658
-278,Mexico,PIB par habitant,2014,$,9862.48125444199
-279,Mexico,PIB par habitant,2015,$,10021.2386118827
-280,Mexico,PIB par habitant,2016,$,10100.5021214015
-281,Mexico,PIB par habitant,2017,$,10193.7727193457
-282,Mexico,PIB par habitant,2018,$,10296.8690928534
-283,Mexico,PIB par habitant,2019,$,10159.4448364319
-284,Mexico,PIB par habitant,2020,$,9234.64362317923
-285,Mexico,disponibilité alimentaire par habitant,2000,kcal/cap/d,3251.0
-286,Mexico,disponibilité alimentaire par habitant,2001,kcal/cap/d,3272.0
-287,Mexico,disponibilité alimentaire par habitant,2002,kcal/cap/d,3272.0
-288,Mexico,disponibilité alimentaire par habitant,2003,kcal/cap/d,3251.0
-289,Mexico,disponibilité alimentaire par habitant,2004,kcal/cap/d,3232.0
-290,Mexico,disponibilité alimentaire par habitant,2005,kcal/cap/d,3224.0
-291,Mexico,disponibilité alimentaire par habitant,2006,kcal/cap/d,3224.0
-292,Mexico,disponibilité alimentaire par habitant,2007,kcal/cap/d,3209.0
-293,Mexico,disponibilité alimentaire par habitant,2008,kcal/cap/d,3188.0
-294,Mexico,disponibilité alimentaire par habitant,2009,kcal/cap/d,3168.0
-295,Mexico,disponibilité alimentaire par habitant,2010,kcal/cap/d,3161.0
-296,Mexico,disponibilité alimentaire par habitant,2011,kcal/cap/d,3152.0
-297,Mexico,disponibilité alimentaire par habitant,2012,kcal/cap/d,3163.0
-298,Mexico,disponibilité alimentaire par habitant,2013,kcal/cap/d,3177.0
-299,Mexico,disponibilité alimentaire par habitant,2014,kcal/cap/d,3200.0
-300,Mexico,disponibilité alimentaire par habitant,2015,kcal/cap/d,3213.0
-301,Mexico,disponibilité alimentaire par habitant,2016,kcal/cap/d,3225.0
-302,Mexico,disponibilité alimentaire par habitant,2017,kcal/cap/d,3242.0
-303,Mexico,disponibilité alimentaire par habitant,2018,kcal/cap/d,3257.0
-304,Mexico,disponibilité alimentaire par habitant,2019,kcal/cap/d,3277.0
-305,Mexico,disponibilité alimentaire par habitant,2020,kcal/cap/d,3296.0
-306,Mexico,disponibilité alimentaire par habitant,2021,kcal/cap/d,3320.0
-307,Mexico,disponibilité alimentaire par habitant,2022,kcal/cap/d,3347.0
-308,Mexico,disponibilité protéiques moyenne,2000,g/cap/d,87.2
-309,Mexico,disponibilité protéiques moyenne,2001,g/cap/d,87.6
-310,Mexico,disponibilité protéiques moyenne,2002,g/cap/d,87.5
-311,Mexico,disponibilité protéiques moyenne,2003,g/cap/d,87.2
-312,Mexico,disponibilité protéiques moyenne,2004,g/cap/d,87.5
-313,Mexico,disponibilité protéiques moyenne,2005,g/cap/d,87.9
-314,Mexico,disponibilité protéiques moyenne,2006,g/cap/d,88.3
-315,Mexico,disponibilité protéiques moyenne,2007,g/cap/d,87.9
-316,Mexico,disponibilité protéiques moyenne,2008,g/cap/d,89.3
-317,Mexico,disponibilité protéiques moyenne,2009,g/cap/d,90.6
-318,Mexico,disponibilité protéiques moyenne,2010,g/cap/d,92.5
-319,Mexico,disponibilité protéiques moyenne,2011,g/cap/d,92.9
-320,Mexico,disponibilité protéiques moyenne,2012,g/cap/d,93.5
-321,Mexico,disponibilité protéiques moyenne,2013,g/cap/d,94.1
-322,Mexico,disponibilité protéiques moyenne,2014,g/cap/d,94.6
-323,Mexico,disponibilité protéiques moyenne,2015,g/cap/d,95.1
-324,Mexico,disponibilité protéiques moyenne,2016,g/cap/d,96.1
-325,Mexico,disponibilité protéiques moyenne,2017,g/cap/d,97.1
-326,Mexico,disponibilité protéiques moyenne,2018,g/cap/d,97.9
-327,Mexico,disponibilité protéiques moyenne,2019,g/cap/d,98.5
-328,Mexico,disponibilité protéiques moyenne,2020,g/cap/d,99.4
-329,Mexico,suffisance des apports énergétiques alimentaires moyens,2000,%,140.0
-330,Mexico,suffisance des apports énergétiques alimentaires moyens,2001,%,141.0
-331,Mexico,suffisance des apports énergétiques alimentaires moyens,2002,%,141.0
-332,Mexico,suffisance des apports énergétiques alimentaires moyens,2003,%,140.0
-333,Mexico,suffisance des apports énergétiques alimentaires moyens,2004,%,139.0
-334,Mexico,suffisance des apports énergétiques alimentaires moyens,2005,%,138.0
-335,Mexico,suffisance des apports énergétiques alimentaires moyens,2006,%,138.0
-336,Mexico,suffisance des apports énergétiques alimentaires moyens,2007,%,137.0
-337,Mexico,suffisance des apports énergétiques alimentaires moyens,2008,%,136.0
-338,Mexico,suffisance des apports énergétiques alimentaires moyens,2009,%,135.0
-339,Mexico,suffisance des apports énergétiques alimentaires moyens,2010,%,134.0
-340,Mexico,suffisance des apports énergétiques alimentaires moyens,2011,%,134.0
-341,Mexico,suffisance des apports énergétiques alimentaires moyens,2012,%,134.0
-342,Mexico,suffisance des apports énergétiques alimentaires moyens,2013,%,134.0
-343,Mexico,suffisance des apports énergétiques alimentaires moyens,2014,%,135.0
-344,Mexico,suffisance des apports énergétiques alimentaires moyens,2015,%,135.0
-345,Mexico,suffisance des apports énergétiques alimentaires moyens,2016,%,136.0
-346,Mexico,suffisance des apports énergétiques alimentaires moyens,2017,%,136.0
-347,Mexico,suffisance des apports énergétiques alimentaires moyens,2018,%,137.0
-348,Mexico,suffisance des apports énergétiques alimentaires moyens,2019,%,137.0
-349,Mexico,suffisance des apports énergétiques alimentaires moyens,2020,%,138.0
-350,Mexico,suffisance des apports énergétiques alimentaires moyens,2021,%,139.0
-351,Mexico,suffisance des apports énergétiques alimentaires moyens,2022,%,139.0
-352,Russian Federation,PIB par habitant,2000,$,5323.66650390625
-353,Russian Federation,PIB par habitant,2001,$,5618.95556640625
-354,Russian Federation,PIB par habitant,2002,$,5910.171875
-355,Russian Federation,PIB par habitant,2003,$,6370.45361328125
-356,Russian Federation,PIB par habitant,2004,$,6856.67822265625
-357,Russian Federation,PIB par habitant,2005,$,7323.38525390625
-358,Russian Federation,PIB par habitant,2006,$,7949.89697265625
-359,Russian Federation,PIB par habitant,2007,$,8640.40625
-360,Russian Federation,PIB par habitant,2008,$,9093.7001953125
-361,Russian Federation,PIB par habitant,2009,$,8381.8681640625
-362,Russian Federation,PIB par habitant,2010,$,8755.1201171875
-363,Russian Federation,PIB par habitant,2011,$,9120.8203125
-364,Russian Federation,PIB par habitant,2012,$,9464.0107421875
-365,Russian Federation,PIB par habitant,2013,$,9601.537109375
-366,Russian Federation,PIB par habitant,2014,$,9493.8125
-367,Russian Federation,PIB par habitant,2015,$,9277.7138671875
-368,Russian Federation,PIB par habitant,2016,$,9269.3193359375
-369,Russian Federation,PIB par habitant,2017,$,9418.9140625
-370,Russian Federation,PIB par habitant,2018,$,9674.787109375
-371,Russian Federation,PIB par habitant,2019,$,9882.0244140625
-372,Russian Federation,PIB par habitant,2020,$,9632.3251953125
-373,Russian Federation,disponibilité alimentaire par habitant,2000,kcal/cap/d,2959.0
-374,Russian Federation,disponibilité alimentaire par habitant,2001,kcal/cap/d,3028.0
-375,Russian Federation,disponibilité alimentaire par habitant,2002,kcal/cap/d,3087.0
-376,Russian Federation,disponibilité alimentaire par habitant,2003,kcal/cap/d,3149.0
-377,Russian Federation,disponibilité alimentaire par habitant,2004,kcal/cap/d,3211.0
-378,Russian Federation,disponibilité alimentaire par habitant,2005,kcal/cap/d,3278.0
-379,Russian Federation,disponibilité alimentaire par habitant,2006,kcal/cap/d,3315.0
-380,Russian Federation,disponibilité alimentaire par habitant,2007,kcal/cap/d,3323.0
-381,Russian Federation,disponibilité alimentaire par habitant,2008,kcal/cap/d,3310.0
-382,Russian Federation,disponibilité alimentaire par habitant,2009,kcal/cap/d,3305.0
-383,Russian Federation,disponibilité alimentaire par habitant,2010,kcal/cap/d,3320.0
-384,Russian Federation,disponibilité alimentaire par habitant,2011,kcal/cap/d,3328.0
-385,Russian Federation,disponibilité alimentaire par habitant,2012,kcal/cap/d,3340.0
-386,Russian Federation,disponibilité alimentaire par habitant,2013,kcal/cap/d,3329.0
-387,Russian Federation,disponibilité alimentaire par habitant,2014,kcal/cap/d,3331.0
-388,Russian Federation,disponibilité alimentaire par habitant,2015,kcal/cap/d,3329.0
-389,Russian Federation,disponibilité alimentaire par habitant,2016,kcal/cap/d,3343.0
-390,Russian Federation,disponibilité alimentaire par habitant,2017,kcal/cap/d,3351.0
-391,Russian Federation,disponibilité alimentaire par habitant,2018,kcal/cap/d,3356.0
-392,Russian Federation,disponibilité alimentaire par habitant,2019,kcal/cap/d,3368.0
-393,Russian Federation,disponibilité alimentaire par habitant,2020,kcal/cap/d,3403.0
-394,Russian Federation,disponibilité alimentaire par habitant,2021,kcal/cap/d,3430.0
-395,Russian Federation,disponibilité alimentaire par habitant,2022,kcal/cap/d,3474.0
-396,Russian Federation,disponibilité protéiques moyenne,2000,g/cap/d,86.9
-397,Russian Federation,disponibilité protéiques moyenne,2001,g/cap/d,88.5
-398,Russian Federation,disponibilité protéiques moyenne,2002,g/cap/d,89.8
-399,Russian Federation,disponibilité protéiques moyenne,2003,g/cap/d,91.6
-400,Russian Federation,disponibilité protéiques moyenne,2004,g/cap/d,93.4
-401,Russian Federation,disponibilité protéiques moyenne,2005,g/cap/d,96.0
-402,Russian Federation,disponibilité protéiques moyenne,2006,g/cap/d,97.8
-403,Russian Federation,disponibilité protéiques moyenne,2007,g/cap/d,99.2
-404,Russian Federation,disponibilité protéiques moyenne,2008,g/cap/d,102.0
-405,Russian Federation,disponibilité protéiques moyenne,2009,g/cap/d,104.4
-406,Russian Federation,disponibilité protéiques moyenne,2010,g/cap/d,107.6
-407,Russian Federation,disponibilité protéiques moyenne,2011,g/cap/d,108.1
-408,Russian Federation,disponibilité protéiques moyenne,2012,g/cap/d,108.8
-409,Russian Federation,disponibilité protéiques moyenne,2013,g/cap/d,108.7
-410,Russian Federation,disponibilité protéiques moyenne,2014,g/cap/d,108.6
-411,Russian Federation,disponibilité protéiques moyenne,2015,g/cap/d,108.7
-412,Russian Federation,disponibilité protéiques moyenne,2016,g/cap/d,109.3
-413,Russian Federation,disponibilité protéiques moyenne,2017,g/cap/d,110.6
-414,Russian Federation,disponibilité protéiques moyenne,2018,g/cap/d,111.9
-415,Russian Federation,disponibilité protéiques moyenne,2019,g/cap/d,113.2
-416,Russian Federation,disponibilité protéiques moyenne,2020,g/cap/d,115.1
-417,Russian Federation,suffisance des apports énergétiques alimentaires moyens,2000,%,118.0
-418,Russian Federation,suffisance des apports énergétiques alimentaires moyens,2001,%,120.0
-419,Russian Federation,suffisance des apports énergétiques alimentaires moyens,2002,%,122.0
-420,Russian Federation,suffisance des apports énergétiques alimentaires moyens,2003,%,125.0
-421,Russian Federation,suffisance des apports énergétiques alimentaires moyens,2004,%,127.0
-422,Russian Federation,suffisance des apports énergétiques alimentaires moyens,2005,%,130.0
-423,Russian Federation,suffisance des apports énergétiques alimentaires moyens,2006,%,132.0
-424,Russian Federation,suffisance des apports énergétiques alimentaires moyens,2007,%,132.0
-425,Russian Federation,suffisance des apports énergétiques alimentaires moyens,2008,%,132.0
-426,Russian Federation,suffisance des apports énergétiques alimentaires moyens,2009,%,132.0
-427,Russian Federation,suffisance des apports énergétiques alimentaires moyens,2010,%,133.0
-428,Russian Federation,suffisance des apports énergétiques alimentaires moyens,2011,%,134.0
-429,Russian Federation,suffisance des apports énergétiques alimentaires moyens,2012,%,135.0
-430,Russian Federation,suffisance des apports énergétiques alimentaires moyens,2013,%,135.0
-431,Russian Federation,suffisance des apports énergétiques alimentaires moyens,2014,%,135.0
-432,Russian Federation,suffisance des apports énergétiques alimentaires moyens,2015,%,135.0
-433,Russian Federation,suffisance des apports énergétiques alimentaires moyens,2016,%,136.0
-434,Russian Federation,suffisance des apports énergétiques alimentaires moyens,2017,%,136.0
-435,Russian Federation,suffisance des apports énergétiques alimentaires moyens,2018,%,136.0
-436,Russian Federation,suffisance des apports énergétiques alimentaires moyens,2019,%,137.0
-437,Russian Federation,suffisance des apports énergétiques alimentaires moyens,2020,%,138.0
-438,Russian Federation,suffisance des apports énergétiques alimentaires moyens,2021,%,139.0
-439,Russian Federation,suffisance des apports énergétiques alimentaires moyens,2022,%,141.0
-440,South Africa,PIB par habitant,2000,$,4700.87555500704
-441,South Africa,PIB par habitant,2001,$,4786.482450463
-442,South Africa,PIB par habitant,2002,$,4916.81498068625
-443,South Africa,PIB par habitant,2003,$,5011.62223150169
-444,South Africa,PIB par habitant,2004,$,5187.35683424034
-445,South Africa,PIB par habitant,2005,$,5406.07581377638
-446,South Africa,PIB par habitant,2006,$,5650.9883176549
-447,South Africa,PIB par habitant,2007,$,5891.42069421698
-448,South Africa,PIB par habitant,2008,$,6009.71963138635
-449,South Africa,PIB par habitant,2009,$,5847.05811084505
-450,South Africa,PIB par habitant,2010,$,5953.94506512821
-451,South Africa,PIB par habitant,2011,$,6067.12482726885
-452,South Africa,PIB par habitant,2012,$,6121.55783860713
-453,South Africa,PIB par habitant,2013,$,6170.87670863373
-454,South Africa,PIB par habitant,2014,$,6155.00589462516
-455,South Africa,PIB par habitant,2015,$,6112.27382485974
-456,South Africa,PIB par habitant,2016,$,6095.295060428
-457,South Africa,PIB par habitant,2017,$,6125.6920507497
-458,South Africa,PIB par habitant,2018,$,6117.2701406047
-459,South Africa,PIB par habitant,2019,$,6032.82972598668
-460,South Africa,PIB par habitant,2020,$,5569.58483319272
-461,South Africa,disponibilité alimentaire par habitant,2000,kcal/cap/d,2897.0
-462,South Africa,disponibilité alimentaire par habitant,2001,kcal/cap/d,2917.0
-463,South Africa,disponibilité alimentaire par habitant,2002,kcal/cap/d,2934.0
-464,South Africa,disponibilité alimentaire par habitant,2003,kcal/cap/d,2956.0
-465,South Africa,disponibilité alimentaire par habitant,2004,kcal/cap/d,2961.0
-466,South Africa,disponibilité alimentaire par habitant,2005,kcal/cap/d,2959.0
-467,South Africa,disponibilité alimentaire par habitant,2006,kcal/cap/d,2952.0
-468,South Africa,disponibilité alimentaire par habitant,2007,kcal/cap/d,2954.0
-469,South Africa,disponibilité alimentaire par habitant,2008,kcal/cap/d,2926.0
-470,South Africa,disponibilité alimentaire par habitant,2009,kcal/cap/d,2899.0
-471,South Africa,disponibilité alimentaire par habitant,2010,kcal/cap/d,2877.0
-472,South Africa,disponibilité alimentaire par habitant,2011,kcal/cap/d,2878.0
-473,South Africa,disponibilité alimentaire par habitant,2012,kcal/cap/d,2867.0
-474,South Africa,disponibilité alimentaire par habitant,2013,kcal/cap/d,2837.0
-475,South Africa,disponibilité alimentaire par habitant,2014,kcal/cap/d,2820.0
-476,South Africa,disponibilité alimentaire par habitant,2015,kcal/cap/d,2818.0
-477,South Africa,disponibilité alimentaire par habitant,2016,kcal/cap/d,2827.0
-478,South Africa,disponibilité alimentaire par habitant,2017,kcal/cap/d,2816.0
-479,South Africa,disponibilité alimentaire par habitant,2018,kcal/cap/d,2792.0
-480,South Africa,disponibilité alimentaire par habitant,2019,kcal/cap/d,2746.0
-481,South Africa,disponibilité alimentaire par habitant,2020,kcal/cap/d,2725.0
-482,South Africa,disponibilité alimentaire par habitant,2021,kcal/cap/d,2703.0
-483,South Africa,disponibilité alimentaire par habitant,2022,kcal/cap/d,2705.0
-484,South Africa,disponibilité protéiques moyenne,2000,g/cap/d,75.8
-485,South Africa,disponibilité protéiques moyenne,2001,g/cap/d,75.6
-486,South Africa,disponibilité protéiques moyenne,2002,g/cap/d,76.2
-487,South Africa,disponibilité protéiques moyenne,2003,g/cap/d,77.5
-488,South Africa,disponibilité protéiques moyenne,2004,g/cap/d,78.9
-489,South Africa,disponibilité protéiques moyenne,2005,g/cap/d,79.9
-490,South Africa,disponibilité protéiques moyenne,2006,g/cap/d,80.7
-491,South Africa,disponibilité protéiques moyenne,2007,g/cap/d,80.9
-492,South Africa,disponibilité protéiques moyenne,2008,g/cap/d,79.6
-493,South Africa,disponibilité protéiques moyenne,2009,g/cap/d,78.5
-494,South Africa,disponibilité protéiques moyenne,2010,g/cap/d,77.8
-495,South Africa,disponibilité protéiques moyenne,2011,g/cap/d,78.2
-496,South Africa,disponibilité protéiques moyenne,2012,g/cap/d,78.8
-497,South Africa,disponibilité protéiques moyenne,2013,g/cap/d,78.9
-498,South Africa,disponibilité protéiques moyenne,2014,g/cap/d,79.1
-499,South Africa,disponibilité protéiques moyenne,2015,g/cap/d,78.5
-500,South Africa,disponibilité protéiques moyenne,2016,g/cap/d,78.7
-501,South Africa,disponibilité protéiques moyenne,2017,g/cap/d,78.8
-502,South Africa,disponibilité protéiques moyenne,2018,g/cap/d,80.4
-503,South Africa,disponibilité protéiques moyenne,2019,g/cap/d,81.4
-504,South Africa,disponibilité protéiques moyenne,2020,g/cap/d,82.1
-505,South Africa,suffisance des apports énergétiques alimentaires moyens,2000,%,122.0
-506,South Africa,suffisance des apports énergétiques alimentaires moyens,2001,%,123.0
-507,South Africa,suffisance des apports énergétiques alimentaires moyens,2002,%,123.0
-508,South Africa,suffisance des apports énergétiques alimentaires moyens,2003,%,124.0
-509,South Africa,suffisance des apports énergétiques alimentaires moyens,2004,%,124.0
-510,South Africa,suffisance des apports énergétiques alimentaires moyens,2005,%,123.0
-511,South Africa,suffisance des apports énergétiques alimentaires moyens,2006,%,123.0
-512,South Africa,suffisance des apports énergétiques alimentaires moyens,2007,%,123.0
-513,South Africa,suffisance des apports énergétiques alimentaires moyens,2008,%,122.0
-514,South Africa,suffisance des apports énergétiques alimentaires moyens,2009,%,121.0
-515,South Africa,suffisance des apports énergétiques alimentaires moyens,2010,%,120.0
-516,South Africa,suffisance des apports énergétiques alimentaires moyens,2011,%,120.0
-517,South Africa,suffisance des apports énergétiques alimentaires moyens,2012,%,119.0
-518,South Africa,suffisance des apports énergétiques alimentaires moyens,2013,%,118.0
-519,South Africa,suffisance des apports énergétiques alimentaires moyens,2014,%,118.0
-520,South Africa,suffisance des apports énergétiques alimentaires moyens,2015,%,118.0
-521,South Africa,suffisance des apports énergétiques alimentaires moyens,2016,%,119.0
-522,South Africa,suffisance des apports énergétiques alimentaires moyens,2017,%,119.0
-523,South Africa,suffisance des apports énergétiques alimentaires moyens,2018,%,117.0
-524,South Africa,suffisance des apports énergétiques alimentaires moyens,2019,%,115.0
-525,South Africa,suffisance des apports énergétiques alimentaires moyens,2020,%,114.0
-526,South Africa,suffisance des apports énergétiques alimentaires moyens,2021,%,113.0
-527,South Africa,suffisance des apports énergétiques alimentaires moyens,2022,%,113.0
+42,Brazil,disponibilité protéiques moyenne,2000,g/cap/d,80.2
+43,Brazil,disponibilité protéiques moyenne,2001,g/cap/d,81.8
+44,Brazil,disponibilité protéiques moyenne,2002,g/cap/d,83.2
+45,Brazil,disponibilité protéiques moyenne,2003,g/cap/d,83.8
+46,Brazil,disponibilité protéiques moyenne,2004,g/cap/d,83.7
+47,Brazil,disponibilité protéiques moyenne,2005,g/cap/d,84.2
+48,Brazil,disponibilité protéiques moyenne,2006,g/cap/d,86.1
+49,Brazil,disponibilité protéiques moyenne,2007,g/cap/d,87.5
+50,Brazil,disponibilité protéiques moyenne,2008,g/cap/d,92.5
+51,Brazil,disponibilité protéiques moyenne,2009,g/cap/d,97.0
+52,Brazil,disponibilité protéiques moyenne,2010,g/cap/d,101.0
+53,Brazil,disponibilité protéiques moyenne,2011,g/cap/d,101.6
+54,Brazil,disponibilité protéiques moyenne,2012,g/cap/d,102.0
+55,Brazil,disponibilité protéiques moyenne,2013,g/cap/d,102.3
+56,Brazil,disponibilité protéiques moyenne,2014,g/cap/d,102.1
+57,Brazil,disponibilité protéiques moyenne,2015,g/cap/d,101.9
+58,Brazil,disponibilité protéiques moyenne,2016,g/cap/d,103.0
+59,Brazil,disponibilité protéiques moyenne,2017,g/cap/d,103.0
+60,Brazil,disponibilité protéiques moyenne,2018,g/cap/d,102.6
+61,Brazil,disponibilité protéiques moyenne,2019,g/cap/d,101.2
+62,Brazil,disponibilité protéiques moyenne,2020,g/cap/d,101.1
+63,Brazil,suffisance des apports énergétiques alimentaires moyens,2000,%,122.0
+64,Brazil,suffisance des apports énergétiques alimentaires moyens,2001,%,124.0
+65,Brazil,suffisance des apports énergétiques alimentaires moyens,2002,%,127.0
+66,Brazil,suffisance des apports énergétiques alimentaires moyens,2003,%,129.0
+67,Brazil,suffisance des apports énergétiques alimentaires moyens,2004,%,130.0
+68,Brazil,suffisance des apports énergétiques alimentaires moyens,2005,%,131.0
+69,Brazil,suffisance des apports énergétiques alimentaires moyens,2006,%,132.0
+70,Brazil,suffisance des apports énergétiques alimentaires moyens,2007,%,133.0
+71,Brazil,suffisance des apports énergétiques alimentaires moyens,2008,%,134.0
+72,Brazil,suffisance des apports énergétiques alimentaires moyens,2009,%,136.0
+73,Brazil,suffisance des apports énergétiques alimentaires moyens,2010,%,136.0
+74,Brazil,suffisance des apports énergétiques alimentaires moyens,2011,%,136.0
+75,Brazil,suffisance des apports énergétiques alimentaires moyens,2012,%,136.0
+76,Brazil,suffisance des apports énergétiques alimentaires moyens,2013,%,136.0
+77,Brazil,suffisance des apports énergétiques alimentaires moyens,2014,%,135.0
+78,Brazil,suffisance des apports énergétiques alimentaires moyens,2015,%,135.0
+79,Brazil,suffisance des apports énergétiques alimentaires moyens,2016,%,135.0
+80,Brazil,suffisance des apports énergétiques alimentaires moyens,2017,%,136.0
+81,Brazil,suffisance des apports énergétiques alimentaires moyens,2018,%,136.0
+82,Brazil,suffisance des apports énergétiques alimentaires moyens,2019,%,137.0
+83,Brazil,suffisance des apports énergétiques alimentaires moyens,2020,%,138.0
+84,China,PIB par habitant,2000,$,2237.44298500334
+85,China,PIB par habitant,2001,$,2405.89396743215
+86,China,PIB par habitant,2002,$,2610.72960252379
+87,China,PIB par habitant,2003,$,2857.0373538115
+88,China,PIB par habitant,2004,$,3127.86276523632
+89,China,PIB par habitant,2005,$,3465.81734409951
+90,China,PIB par habitant,2006,$,3883.35412942474
+91,China,PIB par habitant,2007,$,4409.75700836878
+92,China,PIB par habitant,2008,$,4811.47471804961
+93,China,PIB par habitant,2009,$,5237.76666540352
+94,China,PIB par habitant,2010,$,5764.86534987407
+95,China,PIB par habitant,2011,$,6275.90956436258
+96,China,PIB par habitant,2012,$,6723.19443752823
+97,China,PIB par habitant,2013,$,7198.06876478162
+98,China,PIB par habitant,2014,$,7686.57792954381
+99,China,PIB par habitant,2015,$,8175.33285077393
+100,China,PIB par habitant,2016,$,8679.37704460133
+101,China,PIB par habitant,2017,$,9221.51403820573
+102,China,PIB par habitant,2018,$,9798.6528523316
+103,China,PIB par habitant,2019,$,10356.4804194995
+104,China,PIB par habitant,2020,$,10573.6420059282
+105,China,disponibilité alimentaire par habitant,2000,kcal/cap/d,2813.0
+106,China,disponibilité alimentaire par habitant,2001,kcal/cap/d,2819.0
+107,China,disponibilité alimentaire par habitant,2002,kcal/cap/d,2831.0
+108,China,disponibilité alimentaire par habitant,2003,kcal/cap/d,2845.0
+109,China,disponibilité alimentaire par habitant,2004,kcal/cap/d,2860.0
+110,China,disponibilité alimentaire par habitant,2005,kcal/cap/d,2880.0
+111,China,disponibilité alimentaire par habitant,2006,kcal/cap/d,2912.0
+112,China,disponibilité alimentaire par habitant,2007,kcal/cap/d,2948.0
+113,China,disponibilité alimentaire par habitant,2008,kcal/cap/d,2995.0
+114,China,disponibilité alimentaire par habitant,2009,kcal/cap/d,3039.0
+115,China,disponibilité alimentaire par habitant,2010,kcal/cap/d,3080.0
+116,China,disponibilité alimentaire par habitant,2011,kcal/cap/d,3099.0
+117,China,disponibilité alimentaire par habitant,2012,kcal/cap/d,3136.0
+118,China,disponibilité alimentaire par habitant,2013,kcal/cap/d,3179.0
+119,China,disponibilité alimentaire par habitant,2014,kcal/cap/d,3217.0
+120,China,disponibilité alimentaire par habitant,2015,kcal/cap/d,3235.0
+121,China,disponibilité alimentaire par habitant,2016,kcal/cap/d,3248.0
+122,China,disponibilité alimentaire par habitant,2017,kcal/cap/d,3274.0
+123,China,disponibilité alimentaire par habitant,2018,kcal/cap/d,3295.0
+124,China,disponibilité alimentaire par habitant,2019,kcal/cap/d,3336.0
+125,China,disponibilité alimentaire par habitant,2020,kcal/cap/d,3383.0
+126,China,disponibilité protéiques moyenne,2000,g/cap/d,84.0
+127,China,disponibilité protéiques moyenne,2001,g/cap/d,84.3
+128,China,disponibilité protéiques moyenne,2002,g/cap/d,85.2
+129,China,disponibilité protéiques moyenne,2003,g/cap/d,86.0
+130,China,disponibilité protéiques moyenne,2004,g/cap/d,86.8
+131,China,disponibilité protéiques moyenne,2005,g/cap/d,87.8
+132,China,disponibilité protéiques moyenne,2006,g/cap/d,89.5
+133,China,disponibilité protéiques moyenne,2007,g/cap/d,91.3
+134,China,disponibilité protéiques moyenne,2008,g/cap/d,97.9
+135,China,disponibilité protéiques moyenne,2009,g/cap/d,104.0
+136,China,disponibilité protéiques moyenne,2010,g/cap/d,110.0
+137,China,disponibilité protéiques moyenne,2011,g/cap/d,110.7
+138,China,disponibilité protéiques moyenne,2012,g/cap/d,111.7
+139,China,disponibilité protéiques moyenne,2013,g/cap/d,113.4
+140,China,disponibilité protéiques moyenne,2014,g/cap/d,115.6
+141,China,disponibilité protéiques moyenne,2015,g/cap/d,117.2
+142,China,disponibilité protéiques moyenne,2016,g/cap/d,118.6
+143,China,disponibilité protéiques moyenne,2017,g/cap/d,119.7
+144,China,disponibilité protéiques moyenne,2018,g/cap/d,120.9
+145,China,disponibilité protéiques moyenne,2019,g/cap/d,122.9
+146,China,disponibilité protéiques moyenne,2020,g/cap/d,125.2
+147,China,suffisance des apports énergétiques alimentaires moyens,2000,%,116.0
+148,China,suffisance des apports énergétiques alimentaires moyens,2001,%,116.0
+149,China,suffisance des apports énergétiques alimentaires moyens,2002,%,116.0
+150,China,suffisance des apports énergétiques alimentaires moyens,2003,%,116.0
+151,China,suffisance des apports énergétiques alimentaires moyens,2004,%,117.0
+152,China,suffisance des apports énergétiques alimentaires moyens,2005,%,117.0
+153,China,suffisance des apports énergétiques alimentaires moyens,2006,%,119.0
+154,China,suffisance des apports énergétiques alimentaires moyens,2007,%,120.0
+155,China,suffisance des apports énergétiques alimentaires moyens,2008,%,122.0
+156,China,suffisance des apports énergétiques alimentaires moyens,2009,%,124.0
+157,China,suffisance des apports énergétiques alimentaires moyens,2010,%,126.0
+158,China,suffisance des apports énergétiques alimentaires moyens,2011,%,127.0
+159,China,suffisance des apports énergétiques alimentaires moyens,2012,%,128.0
+160,China,suffisance des apports énergétiques alimentaires moyens,2013,%,130.0
+161,China,suffisance des apports énergétiques alimentaires moyens,2014,%,132.0
+162,China,suffisance des apports énergétiques alimentaires moyens,2015,%,133.0
+163,China,suffisance des apports énergétiques alimentaires moyens,2016,%,134.0
+164,China,suffisance des apports énergétiques alimentaires moyens,2017,%,135.0
+165,China,suffisance des apports énergétiques alimentaires moyens,2018,%,136.0
+166,China,suffisance des apports énergétiques alimentaires moyens,2019,%,137.0
+167,China,suffisance des apports énergétiques alimentaires moyens,2020,%,139.0
+168,India,PIB par habitant,2000,$,756.704109527449
+169,India,PIB par habitant,2001,$,778.507377528365
+170,India,PIB par habitant,2002,$,793.615912906381
+171,India,PIB par habitant,2003,$,841.278894571674
+172,India,PIB par habitant,2004,$,892.596614581612
+173,India,PIB par habitant,2005,$,947.732565646672
+174,India,PIB par habitant,2006,$,1008.23275343783
+175,India,PIB par habitant,2007,$,1069.24696813025
+176,India,PIB par habitant,2008,$,1086.50605251513
+177,India,PIB par habitant,2009,$,1155.10163274172
+178,India,PIB par habitant,2010,$,1235.15939133951
+179,India,PIB par habitant,2011,$,1281.61054354933
+180,India,PIB par habitant,2012,$,1333.09626557668
+181,India,PIB par habitant,2013,$,1399.4537980287
+182,India,PIB par habitant,2014,$,1484.31640682913
+183,India,PIB par habitant,2015,$,1583.99815907985
+184,India,PIB par habitant,2016,$,1694.46534973825
+185,India,PIB par habitant,2017,$,1788.69770318446
+186,India,PIB par habitant,2018,$,1883.35772705062
+187,India,PIB par habitant,2019,$,1936.03067741067
+188,India,PIB par habitant,2020,$,1806.50110583878
+189,India,disponibilité alimentaire par habitant,2000,kcal/cap/d,2298.0
+190,India,disponibilité alimentaire par habitant,2001,kcal/cap/d,2265.0
+191,India,disponibilité alimentaire par habitant,2002,kcal/cap/d,2238.0
+192,India,disponibilité alimentaire par habitant,2003,kcal/cap/d,2231.0
+193,India,disponibilité alimentaire par habitant,2004,kcal/cap/d,2246.0
+194,India,disponibilité alimentaire par habitant,2005,kcal/cap/d,2291.0
+195,India,disponibilité alimentaire par habitant,2006,kcal/cap/d,2339.0
+196,India,disponibilité alimentaire par habitant,2007,kcal/cap/d,2362.0
+197,India,disponibilité alimentaire par habitant,2008,kcal/cap/d,2364.0
+198,India,disponibilité alimentaire par habitant,2009,kcal/cap/d,2370.0
+199,India,disponibilité alimentaire par habitant,2010,kcal/cap/d,2378.0
+200,India,disponibilité alimentaire par habitant,2011,kcal/cap/d,2399.0
+201,India,disponibilité alimentaire par habitant,2012,kcal/cap/d,2418.0
+202,India,disponibilité alimentaire par habitant,2013,kcal/cap/d,2431.0
+203,India,disponibilité alimentaire par habitant,2014,kcal/cap/d,2448.0
+204,India,disponibilité alimentaire par habitant,2015,kcal/cap/d,2470.0
+205,India,disponibilité alimentaire par habitant,2016,kcal/cap/d,2505.0
+206,India,disponibilité alimentaire par habitant,2017,kcal/cap/d,2523.0
+207,India,disponibilité alimentaire par habitant,2018,kcal/cap/d,2532.0
+208,India,disponibilité alimentaire par habitant,2019,kcal/cap/d,2540.0
+209,India,disponibilité alimentaire par habitant,2020,kcal/cap/d,2562.0
+210,India,disponibilité protéiques moyenne,2000,g/cap/d,55.7
+211,India,disponibilité protéiques moyenne,2001,g/cap/d,54.9
+212,India,disponibilité protéiques moyenne,2002,g/cap/d,54.2
+213,India,disponibilité protéiques moyenne,2003,g/cap/d,54.0
+214,India,disponibilité protéiques moyenne,2004,g/cap/d,54.5
+215,India,disponibilité protéiques moyenne,2005,g/cap/d,55.9
+216,India,disponibilité protéiques moyenne,2006,g/cap/d,57.4
+217,India,disponibilité protéiques moyenne,2007,g/cap/d,58.0
+218,India,disponibilité protéiques moyenne,2008,g/cap/d,58.9
+219,India,disponibilité protéiques moyenne,2009,g/cap/d,59.7
+220,India,disponibilité protéiques moyenne,2010,g/cap/d,60.8
+221,India,disponibilité protéiques moyenne,2011,g/cap/d,61.5
+222,India,disponibilité protéiques moyenne,2012,g/cap/d,62.5
+223,India,disponibilité protéiques moyenne,2013,g/cap/d,63.3
+224,India,disponibilité protéiques moyenne,2014,g/cap/d,64.2
+225,India,disponibilité protéiques moyenne,2015,g/cap/d,65.2
+226,India,disponibilité protéiques moyenne,2016,g/cap/d,66.3
+227,India,disponibilité protéiques moyenne,2017,g/cap/d,67.2
+228,India,disponibilité protéiques moyenne,2018,g/cap/d,68.2
+229,India,disponibilité protéiques moyenne,2019,g/cap/d,69.8
+230,India,disponibilité protéiques moyenne,2020,g/cap/d,71.3
+231,India,suffisance des apports énergétiques alimentaires moyens,2000,%,104.0
+232,India,suffisance des apports énergétiques alimentaires moyens,2001,%,102.0
+233,India,suffisance des apports énergétiques alimentaires moyens,2002,%,100.0
+234,India,suffisance des apports énergétiques alimentaires moyens,2003,%,100.0
+235,India,suffisance des apports énergétiques alimentaires moyens,2004,%,100.0
+236,India,suffisance des apports énergétiques alimentaires moyens,2005,%,102.0
+237,India,suffisance des apports énergétiques alimentaires moyens,2006,%,104.0
+238,India,suffisance des apports énergétiques alimentaires moyens,2007,%,104.0
+239,India,suffisance des apports énergétiques alimentaires moyens,2008,%,104.0
+240,India,suffisance des apports énergétiques alimentaires moyens,2009,%,104.0
+241,India,suffisance des apports énergétiques alimentaires moyens,2010,%,104.0
+242,India,suffisance des apports énergétiques alimentaires moyens,2011,%,105.0
+243,India,suffisance des apports énergétiques alimentaires moyens,2012,%,106.0
+244,India,suffisance des apports énergétiques alimentaires moyens,2013,%,106.0
+245,India,suffisance des apports énergétiques alimentaires moyens,2014,%,106.0
+246,India,suffisance des apports énergétiques alimentaires moyens,2015,%,107.0
+247,India,suffisance des apports énergétiques alimentaires moyens,2016,%,108.0
+248,India,suffisance des apports énergétiques alimentaires moyens,2017,%,109.0
+249,India,suffisance des apports énergétiques alimentaires moyens,2018,%,109.0
+250,India,suffisance des apports énergétiques alimentaires moyens,2019,%,109.0
+251,India,suffisance des apports énergétiques alimentaires moyens,2020,%,110.0
+252,Mexico,PIB par habitant,2000,$,9581.96970210753
+253,Mexico,PIB par habitant,2001,$,9398.35074355724
+254,Mexico,PIB par habitant,2002,$,9242.27886130016
+255,Mexico,PIB par habitant,2003,$,9221.99666693097
+256,Mexico,PIB par habitant,2004,$,9421.28975988024
+257,Mexico,PIB par habitant,2005,$,9491.51730225718
+258,Mexico,PIB par habitant,2006,$,9813.8280424425
+259,Mexico,PIB par habitant,2007,$,9877.69532644737
+260,Mexico,PIB par habitant,2008,$,9826.3421836048
+261,Mexico,PIB par habitant,2009,$,9074.1188145564
+262,Mexico,PIB par habitant,2010,$,9389.06722084275
+263,Mexico,PIB par habitant,2011,$,9575.93437788582
+264,Mexico,PIB par habitant,2012,$,9782.51776305354
+265,Mexico,PIB par habitant,2013,$,9738.71059803658
+266,Mexico,PIB par habitant,2014,$,9862.48125444199
+267,Mexico,PIB par habitant,2015,$,10021.2386118827
+268,Mexico,PIB par habitant,2016,$,10100.5021214015
+269,Mexico,PIB par habitant,2017,$,10193.7727193457
+270,Mexico,PIB par habitant,2018,$,10296.8690928534
+271,Mexico,PIB par habitant,2019,$,10159.4448364319
+272,Mexico,PIB par habitant,2020,$,9234.64362317923
+273,Mexico,disponibilité alimentaire par habitant,2000,kcal/cap/d,3251.0
+274,Mexico,disponibilité alimentaire par habitant,2001,kcal/cap/d,3272.0
+275,Mexico,disponibilité alimentaire par habitant,2002,kcal/cap/d,3272.0
+276,Mexico,disponibilité alimentaire par habitant,2003,kcal/cap/d,3251.0
+277,Mexico,disponibilité alimentaire par habitant,2004,kcal/cap/d,3232.0
+278,Mexico,disponibilité alimentaire par habitant,2005,kcal/cap/d,3224.0
+279,Mexico,disponibilité alimentaire par habitant,2006,kcal/cap/d,3224.0
+280,Mexico,disponibilité alimentaire par habitant,2007,kcal/cap/d,3209.0
+281,Mexico,disponibilité alimentaire par habitant,2008,kcal/cap/d,3188.0
+282,Mexico,disponibilité alimentaire par habitant,2009,kcal/cap/d,3168.0
+283,Mexico,disponibilité alimentaire par habitant,2010,kcal/cap/d,3161.0
+284,Mexico,disponibilité alimentaire par habitant,2011,kcal/cap/d,3152.0
+285,Mexico,disponibilité alimentaire par habitant,2012,kcal/cap/d,3163.0
+286,Mexico,disponibilité alimentaire par habitant,2013,kcal/cap/d,3177.0
+287,Mexico,disponibilité alimentaire par habitant,2014,kcal/cap/d,3200.0
+288,Mexico,disponibilité alimentaire par habitant,2015,kcal/cap/d,3213.0
+289,Mexico,disponibilité alimentaire par habitant,2016,kcal/cap/d,3225.0
+290,Mexico,disponibilité alimentaire par habitant,2017,kcal/cap/d,3242.0
+291,Mexico,disponibilité alimentaire par habitant,2018,kcal/cap/d,3257.0
+292,Mexico,disponibilité alimentaire par habitant,2019,kcal/cap/d,3277.0
+293,Mexico,disponibilité alimentaire par habitant,2020,kcal/cap/d,3296.0
+294,Mexico,disponibilité protéiques moyenne,2000,g/cap/d,87.2
+295,Mexico,disponibilité protéiques moyenne,2001,g/cap/d,87.6
+296,Mexico,disponibilité protéiques moyenne,2002,g/cap/d,87.5
+297,Mexico,disponibilité protéiques moyenne,2003,g/cap/d,87.2
+298,Mexico,disponibilité protéiques moyenne,2004,g/cap/d,87.5
+299,Mexico,disponibilité protéiques moyenne,2005,g/cap/d,87.9
+300,Mexico,disponibilité protéiques moyenne,2006,g/cap/d,88.3
+301,Mexico,disponibilité protéiques moyenne,2007,g/cap/d,87.9
+302,Mexico,disponibilité protéiques moyenne,2008,g/cap/d,89.3
+303,Mexico,disponibilité protéiques moyenne,2009,g/cap/d,90.6
+304,Mexico,disponibilité protéiques moyenne,2010,g/cap/d,92.5
+305,Mexico,disponibilité protéiques moyenne,2011,g/cap/d,92.9
+306,Mexico,disponibilité protéiques moyenne,2012,g/cap/d,93.5
+307,Mexico,disponibilité protéiques moyenne,2013,g/cap/d,94.1
+308,Mexico,disponibilité protéiques moyenne,2014,g/cap/d,94.6
+309,Mexico,disponibilité protéiques moyenne,2015,g/cap/d,95.1
+310,Mexico,disponibilité protéiques moyenne,2016,g/cap/d,96.1
+311,Mexico,disponibilité protéiques moyenne,2017,g/cap/d,97.1
+312,Mexico,disponibilité protéiques moyenne,2018,g/cap/d,97.9
+313,Mexico,disponibilité protéiques moyenne,2019,g/cap/d,98.5
+314,Mexico,disponibilité protéiques moyenne,2020,g/cap/d,99.4
+315,Mexico,suffisance des apports énergétiques alimentaires moyens,2000,%,140.0
+316,Mexico,suffisance des apports énergétiques alimentaires moyens,2001,%,141.0
+317,Mexico,suffisance des apports énergétiques alimentaires moyens,2002,%,141.0
+318,Mexico,suffisance des apports énergétiques alimentaires moyens,2003,%,140.0
+319,Mexico,suffisance des apports énergétiques alimentaires moyens,2004,%,139.0
+320,Mexico,suffisance des apports énergétiques alimentaires moyens,2005,%,138.0
+321,Mexico,suffisance des apports énergétiques alimentaires moyens,2006,%,138.0
+322,Mexico,suffisance des apports énergétiques alimentaires moyens,2007,%,137.0
+323,Mexico,suffisance des apports énergétiques alimentaires moyens,2008,%,136.0
+324,Mexico,suffisance des apports énergétiques alimentaires moyens,2009,%,135.0
+325,Mexico,suffisance des apports énergétiques alimentaires moyens,2010,%,134.0
+326,Mexico,suffisance des apports énergétiques alimentaires moyens,2011,%,134.0
+327,Mexico,suffisance des apports énergétiques alimentaires moyens,2012,%,134.0
+328,Mexico,suffisance des apports énergétiques alimentaires moyens,2013,%,134.0
+329,Mexico,suffisance des apports énergétiques alimentaires moyens,2014,%,135.0
+330,Mexico,suffisance des apports énergétiques alimentaires moyens,2015,%,135.0
+331,Mexico,suffisance des apports énergétiques alimentaires moyens,2016,%,136.0
+332,Mexico,suffisance des apports énergétiques alimentaires moyens,2017,%,136.0
+333,Mexico,suffisance des apports énergétiques alimentaires moyens,2018,%,137.0
+334,Mexico,suffisance des apports énergétiques alimentaires moyens,2019,%,137.0
+335,Mexico,suffisance des apports énergétiques alimentaires moyens,2020,%,138.0
+336,Russian Federation,PIB par habitant,2000,$,5323.66650390625
+337,Russian Federation,PIB par habitant,2001,$,5618.95556640625
+338,Russian Federation,PIB par habitant,2002,$,5910.171875
+339,Russian Federation,PIB par habitant,2003,$,6370.45361328125
+340,Russian Federation,PIB par habitant,2004,$,6856.67822265625
+341,Russian Federation,PIB par habitant,2005,$,7323.38525390625
+342,Russian Federation,PIB par habitant,2006,$,7949.89697265625
+343,Russian Federation,PIB par habitant,2007,$,8640.40625
+344,Russian Federation,PIB par habitant,2008,$,9093.7001953125
+345,Russian Federation,PIB par habitant,2009,$,8381.8681640625
+346,Russian Federation,PIB par habitant,2010,$,8755.1201171875
+347,Russian Federation,PIB par habitant,2011,$,9120.8203125
+348,Russian Federation,PIB par habitant,2012,$,9464.0107421875
+349,Russian Federation,PIB par habitant,2013,$,9601.537109375
+350,Russian Federation,PIB par habitant,2014,$,9493.8125
+351,Russian Federation,PIB par habitant,2015,$,9277.7138671875
+352,Russian Federation,PIB par habitant,2016,$,9269.3193359375
+353,Russian Federation,PIB par habitant,2017,$,9418.9140625
+354,Russian Federation,PIB par habitant,2018,$,9674.787109375
+355,Russian Federation,PIB par habitant,2019,$,9882.0244140625
+356,Russian Federation,PIB par habitant,2020,$,9632.3251953125
+357,Russian Federation,disponibilité alimentaire par habitant,2000,kcal/cap/d,2959.0
+358,Russian Federation,disponibilité alimentaire par habitant,2001,kcal/cap/d,3028.0
+359,Russian Federation,disponibilité alimentaire par habitant,2002,kcal/cap/d,3087.0
+360,Russian Federation,disponibilité alimentaire par habitant,2003,kcal/cap/d,3149.0
+361,Russian Federation,disponibilité alimentaire par habitant,2004,kcal/cap/d,3211.0
+362,Russian Federation,disponibilité alimentaire par habitant,2005,kcal/cap/d,3278.0
+363,Russian Federation,disponibilité alimentaire par habitant,2006,kcal/cap/d,3315.0
+364,Russian Federation,disponibilité alimentaire par habitant,2007,kcal/cap/d,3323.0
+365,Russian Federation,disponibilité alimentaire par habitant,2008,kcal/cap/d,3310.0
+366,Russian Federation,disponibilité alimentaire par habitant,2009,kcal/cap/d,3305.0
+367,Russian Federation,disponibilité alimentaire par habitant,2010,kcal/cap/d,3320.0
+368,Russian Federation,disponibilité alimentaire par habitant,2011,kcal/cap/d,3328.0
+369,Russian Federation,disponibilité alimentaire par habitant,2012,kcal/cap/d,3340.0
+370,Russian Federation,disponibilité alimentaire par habitant,2013,kcal/cap/d,3329.0
+371,Russian Federation,disponibilité alimentaire par habitant,2014,kcal/cap/d,3331.0
+372,Russian Federation,disponibilité alimentaire par habitant,2015,kcal/cap/d,3329.0
+373,Russian Federation,disponibilité alimentaire par habitant,2016,kcal/cap/d,3343.0
+374,Russian Federation,disponibilité alimentaire par habitant,2017,kcal/cap/d,3351.0
+375,Russian Federation,disponibilité alimentaire par habitant,2018,kcal/cap/d,3356.0
+376,Russian Federation,disponibilité alimentaire par habitant,2019,kcal/cap/d,3368.0
+377,Russian Federation,disponibilité alimentaire par habitant,2020,kcal/cap/d,3403.0
+378,Russian Federation,disponibilité protéiques moyenne,2000,g/cap/d,86.9
+379,Russian Federation,disponibilité protéiques moyenne,2001,g/cap/d,88.5
+380,Russian Federation,disponibilité protéiques moyenne,2002,g/cap/d,89.8
+381,Russian Federation,disponibilité protéiques moyenne,2003,g/cap/d,91.6
+382,Russian Federation,disponibilité protéiques moyenne,2004,g/cap/d,93.4
+383,Russian Federation,disponibilité protéiques moyenne,2005,g/cap/d,96.0
+384,Russian Federation,disponibilité protéiques moyenne,2006,g/cap/d,97.8
+385,Russian Federation,disponibilité protéiques moyenne,2007,g/cap/d,99.2
+386,Russian Federation,disponibilité protéiques moyenne,2008,g/cap/d,102.0
+387,Russian Federation,disponibilité protéiques moyenne,2009,g/cap/d,104.4
+388,Russian Federation,disponibilité protéiques moyenne,2010,g/cap/d,107.6
+389,Russian Federation,disponibilité protéiques moyenne,2011,g/cap/d,108.1
+390,Russian Federation,disponibilité protéiques moyenne,2012,g/cap/d,108.8
+391,Russian Federation,disponibilité protéiques moyenne,2013,g/cap/d,108.7
+392,Russian Federation,disponibilité protéiques moyenne,2014,g/cap/d,108.6
+393,Russian Federation,disponibilité protéiques moyenne,2015,g/cap/d,108.7
+394,Russian Federation,disponibilité protéiques moyenne,2016,g/cap/d,109.3
+395,Russian Federation,disponibilité protéiques moyenne,2017,g/cap/d,110.6
+396,Russian Federation,disponibilité protéiques moyenne,2018,g/cap/d,111.9
+397,Russian Federation,disponibilité protéiques moyenne,2019,g/cap/d,113.2
+398,Russian Federation,disponibilité protéiques moyenne,2020,g/cap/d,115.1
+399,Russian Federation,suffisance des apports énergétiques alimentaires moyens,2000,%,118.0
+400,Russian Federation,suffisance des apports énergétiques alimentaires moyens,2001,%,120.0
+401,Russian Federation,suffisance des apports énergétiques alimentaires moyens,2002,%,122.0
+402,Russian Federation,suffisance des apports énergétiques alimentaires moyens,2003,%,125.0
+403,Russian Federation,suffisance des apports énergétiques alimentaires moyens,2004,%,127.0
+404,Russian Federation,suffisance des apports énergétiques alimentaires moyens,2005,%,130.0
+405,Russian Federation,suffisance des apports énergétiques alimentaires moyens,2006,%,132.0
+406,Russian Federation,suffisance des apports énergétiques alimentaires moyens,2007,%,132.0
+407,Russian Federation,suffisance des apports énergétiques alimentaires moyens,2008,%,132.0
+408,Russian Federation,suffisance des apports énergétiques alimentaires moyens,2009,%,132.0
+409,Russian Federation,suffisance des apports énergétiques alimentaires moyens,2010,%,133.0
+410,Russian Federation,suffisance des apports énergétiques alimentaires moyens,2011,%,134.0
+411,Russian Federation,suffisance des apports énergétiques alimentaires moyens,2012,%,135.0
+412,Russian Federation,suffisance des apports énergétiques alimentaires moyens,2013,%,135.0
+413,Russian Federation,suffisance des apports énergétiques alimentaires moyens,2014,%,135.0
+414,Russian Federation,suffisance des apports énergétiques alimentaires moyens,2015,%,135.0
+415,Russian Federation,suffisance des apports énergétiques alimentaires moyens,2016,%,136.0
+416,Russian Federation,suffisance des apports énergétiques alimentaires moyens,2017,%,136.0
+417,Russian Federation,suffisance des apports énergétiques alimentaires moyens,2018,%,136.0
+418,Russian Federation,suffisance des apports énergétiques alimentaires moyens,2019,%,137.0
+419,Russian Federation,suffisance des apports énergétiques alimentaires moyens,2020,%,138.0
+420,South Africa,PIB par habitant,2000,$,4700.87555500704
+421,South Africa,PIB par habitant,2001,$,4786.482450463
+422,South Africa,PIB par habitant,2002,$,4916.81498068625
+423,South Africa,PIB par habitant,2003,$,5011.62223150169
+424,South Africa,PIB par habitant,2004,$,5187.35683424034
+425,South Africa,PIB par habitant,2005,$,5406.07581377638
+426,South Africa,PIB par habitant,2006,$,5650.9883176549
+427,South Africa,PIB par habitant,2007,$,5891.42069421698
+428,South Africa,PIB par habitant,2008,$,6009.71963138635
+429,South Africa,PIB par habitant,2009,$,5847.05811084505
+430,South Africa,PIB par habitant,2010,$,5953.94506512821
+431,South Africa,PIB par habitant,2011,$,6067.12482726885
+432,South Africa,PIB par habitant,2012,$,6121.55783860713
+433,South Africa,PIB par habitant,2013,$,6170.87670863373
+434,South Africa,PIB par habitant,2014,$,6155.00589462516
+435,South Africa,PIB par habitant,2015,$,6112.27382485974
+436,South Africa,PIB par habitant,2016,$,6095.295060428
+437,South Africa,PIB par habitant,2017,$,6125.6920507497
+438,South Africa,PIB par habitant,2018,$,6117.2701406047
+439,South Africa,PIB par habitant,2019,$,6032.82972598668
+440,South Africa,PIB par habitant,2020,$,5569.58483319272
+441,South Africa,disponibilité alimentaire par habitant,2000,kcal/cap/d,2897.0
+442,South Africa,disponibilité alimentaire par habitant,2001,kcal/cap/d,2917.0
+443,South Africa,disponibilité alimentaire par habitant,2002,kcal/cap/d,2934.0
+444,South Africa,disponibilité alimentaire par habitant,2003,kcal/cap/d,2956.0
+445,South Africa,disponibilité alimentaire par habitant,2004,kcal/cap/d,2961.0
+446,South Africa,disponibilité alimentaire par habitant,2005,kcal/cap/d,2959.0
+447,South Africa,disponibilité alimentaire par habitant,2006,kcal/cap/d,2952.0
+448,South Africa,disponibilité alimentaire par habitant,2007,kcal/cap/d,2954.0
+449,South Africa,disponibilité alimentaire par habitant,2008,kcal/cap/d,2926.0
+450,South Africa,disponibilité alimentaire par habitant,2009,kcal/cap/d,2899.0
+451,South Africa,disponibilité alimentaire par habitant,2010,kcal/cap/d,2877.0
+452,South Africa,disponibilité alimentaire par habitant,2011,kcal/cap/d,2878.0
+453,South Africa,disponibilité alimentaire par habitant,2012,kcal/cap/d,2867.0
+454,South Africa,disponibilité alimentaire par habitant,2013,kcal/cap/d,2837.0
+455,South Africa,disponibilité alimentaire par habitant,2014,kcal/cap/d,2820.0
+456,South Africa,disponibilité alimentaire par habitant,2015,kcal/cap/d,2818.0
+457,South Africa,disponibilité alimentaire par habitant,2016,kcal/cap/d,2827.0
+458,South Africa,disponibilité alimentaire par habitant,2017,kcal/cap/d,2816.0
+459,South Africa,disponibilité alimentaire par habitant,2018,kcal/cap/d,2792.0
+460,South Africa,disponibilité alimentaire par habitant,2019,kcal/cap/d,2746.0
+461,South Africa,disponibilité alimentaire par habitant,2020,kcal/cap/d,2725.0
+462,South Africa,disponibilité protéiques moyenne,2000,g/cap/d,75.8
+463,South Africa,disponibilité protéiques moyenne,2001,g/cap/d,75.6
+464,South Africa,disponibilité protéiques moyenne,2002,g/cap/d,76.2
+465,South Africa,disponibilité protéiques moyenne,2003,g/cap/d,77.5
+466,South Africa,disponibilité protéiques moyenne,2004,g/cap/d,78.9
+467,South Africa,disponibilité protéiques moyenne,2005,g/cap/d,79.9
+468,South Africa,disponibilité protéiques moyenne,2006,g/cap/d,80.7
+469,South Africa,disponibilité protéiques moyenne,2007,g/cap/d,80.9
+470,South Africa,disponibilité protéiques moyenne,2008,g/cap/d,79.6
+471,South Africa,disponibilité protéiques moyenne,2009,g/cap/d,78.5
+472,South Africa,disponibilité protéiques moyenne,2010,g/cap/d,77.8
+473,South Africa,disponibilité protéiques moyenne,2011,g/cap/d,78.2
+474,South Africa,disponibilité protéiques moyenne,2012,g/cap/d,78.8
+475,South Africa,disponibilité protéiques moyenne,2013,g/cap/d,78.9
+476,South Africa,disponibilité protéiques moyenne,2014,g/cap/d,79.1
+477,South Africa,disponibilité protéiques moyenne,2015,g/cap/d,78.5
+478,South Africa,disponibilité protéiques moyenne,2016,g/cap/d,78.7
+479,South Africa,disponibilité protéiques moyenne,2017,g/cap/d,78.8
+480,South Africa,disponibilité protéiques moyenne,2018,g/cap/d,80.4
+481,South Africa,disponibilité protéiques moyenne,2019,g/cap/d,81.4
+482,South Africa,disponibilité protéiques moyenne,2020,g/cap/d,82.1
+483,South Africa,suffisance des apports énergétiques alimentaires moyens,2000,%,122.0
+484,South Africa,suffisance des apports énergétiques alimentaires moyens,2001,%,123.0
+485,South Africa,suffisance des apports énergétiques alimentaires moyens,2002,%,123.0
+486,South Africa,suffisance des apports énergétiques alimentaires moyens,2003,%,124.0
+487,South Africa,suffisance des apports énergétiques alimentaires moyens,2004,%,124.0
+488,South Africa,suffisance des apports énergétiques alimentaires moyens,2005,%,123.0
+489,South Africa,suffisance des apports énergétiques alimentaires moyens,2006,%,123.0
+490,South Africa,suffisance des apports énergétiques alimentaires moyens,2007,%,123.0
+491,South Africa,suffisance des apports énergétiques alimentaires moyens,2008,%,122.0
+492,South Africa,suffisance des apports énergétiques alimentaires moyens,2009,%,121.0
+493,South Africa,suffisance des apports énergétiques alimentaires moyens,2010,%,120.0
+494,South Africa,suffisance des apports énergétiques alimentaires moyens,2011,%,120.0
+495,South Africa,suffisance des apports énergétiques alimentaires moyens,2012,%,119.0
+496,South Africa,suffisance des apports énergétiques alimentaires moyens,2013,%,118.0
+497,South Africa,suffisance des apports énergétiques alimentaires moyens,2014,%,118.0
+498,South Africa,suffisance des apports énergétiques alimentaires moyens,2015,%,118.0
+499,South Africa,suffisance des apports énergétiques alimentaires moyens,2016,%,119.0
+500,South Africa,suffisance des apports énergétiques alimentaires moyens,2017,%,119.0
+501,South Africa,suffisance des apports énergétiques alimentaires moyens,2018,%,117.0
+502,South Africa,suffisance des apports énergétiques alimentaires moyens,2019,%,115.0
+503,South Africa,suffisance des apports énergétiques alimentaires moyens,2020,%,114.0
