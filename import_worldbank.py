@@ -1,0 +1,28 @@
+import pandas as pd
+
+def parse_worldbank_pib(data_json):
+    """
+    Transforme le JSON brut de la Banque Mondiale en DataFrame structuré.
+    """
+    liste_simplifiee = []
+    for item in data_json:
+        liste_simplifiee.append({
+            'Pays': item['country']['value'],
+            'Année': int(item['date']),
+            'PIB_par_habitant': item['value']
+        })
+    return pd.DataFrame(liste_simplifiee)
+
+def filter_years(df, start_year, end_year):
+    """
+    Filtre le DataFrame sur une plage d'années spécifique.
+    """
+    mask = (df['Année'] >= start_year) & (df['Année'] <= end_year)
+    return df[mask].copy()
+
+def filter_bricsam_countries(df,pays_a_conserver):
+    """
+    Filtre le DataFrame pour ne garder que les pays du groupe BRICSAM sélectionnés.
+    """
+    return df[df['Pays'].isin(pays_a_conserver)].copy()
+

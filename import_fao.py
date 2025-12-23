@@ -1,32 +1,42 @@
-# On importe la bibliothèque permettant de récupérer les données disponible sur FAOSTAT
 import faostat
 
-def get_datas_fao (area,item,year) : 
+def fetch_fao_security_data(area_codes, item_codes, years):
     """
-    Fonction que l'on appelera dans notre notebook pour récupérer les données pour les BRICSAM
+    Extrait les données de sécurité alimentaire (FS) depuis l'API FAOSTAT.
     """
-    # Creation du dataframe
-    mypars = {'area': area, # on sélectionne uniquement les pays souahités
-              'element': [6120], # 2 variables sont disponibles par indicateurs : valeur et intervalle de confiance. On ne garde que la première 
-              'item': item, # code des indicateurs que l'on souhaite garder
-              'year': year} # années séléctionnées
+    params = {
+        'area': area_codes,
+        'element': [6120],  # Valeur uniquement (exclut l'intervalle de confiance)
+        'item': item_codes,
+        'year': years
+    }
+    # Récupération via le domaine 'FS' (Food Security)
+    return faostat.get_data_df('FS', pars=params, strval=False)
 
-    df = faostat.get_data_df('FS', pars=mypars, strval=False) # FS correspond au jeu d'indicateurs sur la sécurité alimentaire
+def clean_fao_columns(df):
+    """
+    Supprime les colonnes techniques et renomme les axes principaux en français.
+    """
+    cols_to_drop = ['Domain Code', 'Domain', 'Area Code', 'Element Code', 
+                    'Element', 'Year Code', 'Item Code']
     
-    # Nettoyage du dataframe
-    ## On supprime les colonnes inutiles et on renomme celles restantes
-    df = df.drop(['Domain Code', 'Domain', 'Area Code', 'Element Code', 'Element', 'Year Code','Item Code'], axis=1)
-    df = df.rename(columns={
+    # On utilise errors='ignore' pour éviter les plantages si une colonne manque
+    df = df.drop(columns=cols_to_drop, errors='ignore')
+    
+    rename_map = {
         'Item': 'Indicateur',
         'Area': 'Pays',
         'Year': 'Année',
-        'Unit' : 'Unité',
-        'Value' : 'Valeur'
-        })
+        'Unit': 'Unité',
+        'Value': 'Valeur'
+    }
+    return df.rename(columns=rename_map)
 
-    
-    # Modification du nom des indicateurs de sécurité alimentaire
-    indicateurs_map = {
+def translate_indicators(df):
+    """
+    Traduit les intitulés longs des indicateurs de sécurité alimentaire en français.
+    """
+    translate_map = {
         'Average dietary energy supply adequacy (percent) (3-year average)': 
             "suffisance des apports énergétiques alimentaires moyens",
         'Dietary energy supply used in the estimation of the prevalence of undernourishment (kcal/cap/day) (3-year average)': 
@@ -34,17 +44,13 @@ def get_datas_fao (area,item,year) :
         'Average protein supply (g/cap/day) (3-year average)': 
             "disponibilité protéiques moyenne"
     }
-    df['Indicateur'] = df['Indicateur'].replace(indicateurs_map)
-    
+    df['Indicateur'] = df['Indicateur'].replace(translate_map)
     return df
 
-def format_annees (df) :
+def simplify_fao_years(df):
     """
-    Permet de reformater la variable année.
-    Pour l'instant la valeur de year s'écrit 'xxxx-yyyy'. Comme on ne veut garder que la première année ('xxxx'). 
-    On ne garde que les 4 premiers caractères. On les passe ensuite en entier.
+    Convertit les périodes '2018-2020' en année de début (integer) '2018'.
     """
-    for year in df['Année'].unique():
-        df.loc[df['Année'] == year, 'Année'] = int(year[:4])
-
+    # Utilisation de .str[:4] pour une opération vectorisée plus rapide que la boucle for
+    df['Année'] = df['Année'].astype(str).str[:4].astype(int)
     return df
