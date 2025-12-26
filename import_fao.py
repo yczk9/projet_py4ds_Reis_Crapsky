@@ -1,8 +1,8 @@
 import faostat
 
-def fetch_fao_security_data(area_codes, item_codes, years):
+def fetch_fao_data(area_codes, item_codes, years):
     """
-    Extrait les données de sécurité alimentaire (FS) depuis l'API FAOSTAT.
+    Extrait les données que l'on souhaite utiliser depuis l'API FAOSTAT.
     """
     params = {
         'area': area_codes,
@@ -15,12 +15,12 @@ def fetch_fao_security_data(area_codes, item_codes, years):
 
 def clean_fao_columns(df):
     """
-    Supprime les colonnes techniques et renomme les axes principaux en français.
+    Supprime les colonnes inutiles et renomme les variables en français.
     """
     cols_to_drop = ['Domain Code', 'Domain', 'Area Code', 'Element Code', 
                     'Element', 'Year Code', 'Item Code']
     
-    # On utilise errors='ignore' pour éviter les plantages si une colonne manque
+    # On utilise errors='ignore' pour éviter les erreurs si une colonne manque
     df = df.drop(columns=cols_to_drop, errors='ignore')
     
     rename_map = {
@@ -34,7 +34,7 @@ def clean_fao_columns(df):
 
 def translate_indicators(df):
     """
-    Traduit les intitulés longs des indicateurs de sécurité alimentaire en français.
+    Traduit le nom des indicateurs de sécurité alimentaire en français.
     """
     translate_map = {
         'Average dietary energy supply adequacy (percent) (3-year average)': 
@@ -49,7 +49,7 @@ def translate_indicators(df):
 
 def simplify_fao_years(df):
     """
-    Convertit les périodes '2018-2020' en année de début '2018'.
+    Associe chaque plage de 3 ans à la première année (ex : '2000-2002' devient 2000).
     """
     # Utilisation de .str[:4] pour ne garder que la première année
     df['Année'] = df['Année'].astype(str).str[:4].astype(int)
