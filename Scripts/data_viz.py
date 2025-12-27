@@ -21,6 +21,7 @@ def graph_evol(df, indicator) :
 
     plt.xlabel('Année')    
     plt.ylabel(indicator)
+    plt.title(f'Graphique représentant l évolution de l indicateur {indicator} par pays et par année')
     plt.grid()
     plt.legend()
     plt.xticks(np.arange(data['Année'].min(), data['Année'].max() + 1, 2))
@@ -55,6 +56,7 @@ def graph_evol_TCA (df, indicator) :
 
     plt.xlabel('Année')    
     plt.ylabel(indicator)
+    plt.title(f'Graphique représentant l évolution du taux de croissance annuelle de l indicateur {indicator} par pays et par année')
     plt.grid()
     plt.legend()
     plt.xticks(np.arange(data['Année'].min(), data['Année'].max() + 1, 2))
