@@ -8,9 +8,7 @@ Le PIB est-il un indicateur robuste de la sécurité alimentaire? Etude sur les 
 1. [Définitions](#definitions)
 2. [Démarche et objectifs](#objectifs)
 3. [Sources des données](#sources)
-4. [Présentation du dépôt](#pres)
-5. [Licence](#licence)
-
+4. [Présentation du notebook](#pres)
 
 
 ## 1. Définitions <a name="definitions">
@@ -42,24 +40,14 @@ Pour créer une variable de sécurité alimentaire, nous avons réalisé une ana
 Nous avons utilisé les datasets:
 
 - De la Banque mondiale pour le PIB
-- De faostat pour les données de sécurité alimentaires. Ce jeu de données nous donnait accès à des variables de sécurité alimentaire de 2000 à 2020, ce qui semblait suffisament large pour mener notre étude.
+- De faostat (Food and Agriculture Organization of the United Nations) pour les données de sécurité alimentaires. Ce jeu de données nous donnait accès à des variables de sécurité alimentaire de 2000 à 2020, ce qui semblait suffisament large pour mener notre étude.
 
-## 4. Présentation du dépôt <a name=pres>
+## 4. Présentation du notebook <a name=pres>
 
-Notre production est essentiellement localisée dans deux versions d'un fichier ```main.ipynb```.
-- La première ne contient que le code non exécuté et les commentaires entre les cellules. 
-- Le code dans la seconde a été préalablement exécuté, afin de pouvoir présenter les résultats même en cas  d'inaccessibilité temporaire des sources. 
+Le notebook est structuré en deux parties: 
+- Une partie sur la collecte de données qui vise à obtenir un data frame propre avec uniquement les données nécéssaires au projet, issues à la fois de la banque mondiale et de faostat. 
+- Une partie data visualisation qui contient notre travail statistique. 
 
-C'est cette version exécutée qui tient lieu de rapport final.
 
-Le dossier ```data``` contient une copie locale d'une partie des données tirées de nos sources. Les API  correspondantes ont été indisponibles pendant quelques jours durant le projet, ce qui nous a contraint à trouver une parade.
-
-Le dossier ```scripts``` contient, comme on l'imagine, une multitude de fonctions utiles, afin de rendre notre code plus lisible et maintenanble. 
-
-Quant au fichier ```requirements.txt```, il est appelé par pip afin d'installer les paquets nécessaires en début d'exécution.
-
-## 5. Licence <a name="licence">
-
-Ce projet est sous licence GPLv3.
 
 
