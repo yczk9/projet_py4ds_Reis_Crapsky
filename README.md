@@ -2,7 +2,8 @@
 
 *Par Yann CRAPSY et Ophélie REIS, 2025.*
 
-Le PIB est-il un indicateur robuste de la sécurité alimentaire? Etude sur les BRICSAM entre 2000 et 2020. 
+**Le PIB est-il un indicateur robuste de la sécurité alimentaire?** 
+**Etude sur les BRICSAM entre 2000 et 2020.** 
 
 # Sommaire
 1. [Définitions](#definitions)
@@ -47,6 +48,7 @@ Nous avons utilisé les datasets:
 Le notebook est structuré en deux parties: 
 - Une partie sur la collecte de données qui vise à obtenir un data frame propre avec uniquement les données nécéssaires au projet, issues à la fois de la banque mondiale et de faostat. 
 - Une partie data visualisation qui contient notre travail statistique. 
+
 
 
 
